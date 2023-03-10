@@ -1,1 +1,1 @@
-# Painel-de-Estat-stica-KingoNetwork
+# Painel-de-Estatística-KingoNetwork
