@@ -1,10 +1,10 @@
 $(document).ready(function() {
 	// Definimos os servidores que queremos monitorar
 	var servidores = [
-		{nome: "Lobby", ip: "192.168.0.1"},
-		{nome: "RPG", ip: "192.168.0.2"},
-		{nome: "Pixelmon", ip: "192.168.0.3"},
-		{nome: "Survival", ip: "192.168.0.4"}
+		{nome: "Lobby", ip: "XXX.XXX.X.X"},
+		{nome: "RPG", ip: "XXX.XXX.X.X"},
+		{nome: "Pixelmon", ip: "XXX.XXX.X.X"},
+		{nome: "Survival", ip: "XXX.XXX.X.X"}
 	];
 	
 	// Função para atualizar as estatísticas de um servidor
